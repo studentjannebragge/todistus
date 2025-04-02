@@ -1,3 +1,1 @@
-# todistus
-
-Tutkintotodistukset ajalta 2007 - 2025
+# Tutkintotodistukset ajalta 2007 - 2025
